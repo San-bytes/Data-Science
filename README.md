@@ -1,4 +1,4 @@
-# Customer Churn Prediction — MCA DS Project
+# Customer Churn Prediction 
 
 Predict whether a telecom customer will churn using Python, scikit-learn, and SMOTE.
 
@@ -46,4 +46,4 @@ Run all cells top to bottom.
 Random Forest with SMOTE improved recall for the churn class (caught more at-risk customers) compared to the baseline models, even though overall accuracy was slightly lower. For churn retention, recall matters more than raw accuracy.
 
 ## Author
-MCA Student — Data Science Internship Prep
+Prasannashree 
